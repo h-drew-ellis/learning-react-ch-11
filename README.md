@@ -1,3 +1,4 @@
+# Chapter 11 Learning React by Eve Porcello & Alex Banks
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

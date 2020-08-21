@@ -1,0 +1,8 @@
+.nav {
+  display: grid;
+  grid-template-columns: minmax(60px, 100px);
+  grid-auto-columns: minmax(60px, 100px);
+  grid-gap: 10px;
+  place-content: center;
+  grid-auto-flow: column;
+}

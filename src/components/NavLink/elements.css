@@ -1,0 +1,11 @@
+.link {
+  background-color: #191265;
+  padding: 10px;
+  border-radius: 4px;
+  color: white;
+  text-decoration: none;
+}
+.link:visited {
+  color: white;
+  text-decoration: none;
+}
